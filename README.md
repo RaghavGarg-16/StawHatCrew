@@ -10,9 +10,9 @@ This is my project for the ETH Proof: Intermediate EVM course module 3.
   - burn
   - etc
     
--This token contract is build using the templates from the OpenZeppelin library.
+- This token contract is build using the templates from the OpenZeppelin library.
 
--My token name is StrawHatCrew and it's symbol is SHC.
+- My token name is StrawHatCrew and it's symbol is SHC.
 
 - I have already minted 1000 token.
   
