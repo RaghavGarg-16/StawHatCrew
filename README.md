@@ -1,4 +1,4 @@
-This is my project for the ETH Proof: Intermediate EVM course module 3.
+# This is my project for the ETH Proof: Intermediate EVM course module 3.
 
 - This is a ERC20 token contract build using the solidity programming language.
   
