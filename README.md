@@ -3,7 +3,7 @@ This is my project for the ETH Proof: Intermediate EVM course module 3.
 - This is a ERC20 token contract build using the solidity programming language.
   
 - We can connect it with MetaMask wallet by selecting the environment as "Injected Web3" to connect Remix to our MetaMask wallet.
-- 
+  
 - By changing the network in MetaMask to the "Goerli" testnet we can use this token for transactions i.e
   - mint
   - send
