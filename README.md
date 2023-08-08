@@ -4,11 +4,10 @@ This is my project for the ETH Proof: Intermediate EVM course module 3.
   
 - We can connect it with MetaMask wallet by selecting the environment as "Injected Web3" to connect Remix to our MetaMask wallet.
   
-- By changing the network in MetaMask to the "Goerli" testnet we can use this token for transactions i.e
+- By changing the network in MetaMask to the "Goerli" testnet, we can use this token for transactions i.e
   - mint
   - send
-  - burn
-  - etc
+  - burn, etc.
     
 - This token contract is build using the templates from the OpenZeppelin library.
 
